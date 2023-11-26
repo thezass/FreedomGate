@@ -1,0 +1,6 @@
+baseURL : 'https://thezass.github.io/FreedomGate/'
+languageCode : 'en-us'
+title : 'FreedomGate'
+theme : 'PaperMod'
+home: 
+  content: 'index.md'
