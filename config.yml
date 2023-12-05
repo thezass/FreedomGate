@@ -1,4 +1,4 @@
-baseURL : '/'
+baseURL : 'https://thezass.github.io/'
 languageCode : 'en-us'
 title : 'FreedomGate'
 relativeURLs : true
